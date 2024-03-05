@@ -1,0 +1,12 @@
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Masaüstü\shopapp\shopapp.entity\obj\Debug\net7.0\shopapp.entity.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Masaüstü\shopapp\shopapp.entity\obj\Debug\net7.0\shopapp.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Masaüstü\shopapp\shopapp.entity\obj\Debug\net7.0\shopapp.entity.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Masaüstü\shopapp\shopapp.entity\obj\Debug\net7.0\shopapp.entity.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Masaüstü\shopapp\shopapp.entity\obj\Debug\net7.0\shopapp.entity.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Masaüstü\shopapp\shopapp.entity\bin\Debug\net7.0\shopapp.entity.deps.json
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Masaüstü\shopapp\shopapp.entity\bin\Debug\net7.0\shopapp.entity.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Masaüstü\shopapp\shopapp.entity\bin\Debug\net7.0\shopapp.entity.pdb
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Masaüstü\shopapp\shopapp.entity\obj\Debug\net7.0\shopapp.entity.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Masaüstü\shopapp\shopapp.entity\obj\Debug\net7.0\refint\shopapp.entity.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Masaüstü\shopapp\shopapp.entity\obj\Debug\net7.0\shopapp.entity.pdb
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Masaüstü\shopapp\shopapp.entity\obj\Debug\net7.0\ref\shopapp.entity.dll
