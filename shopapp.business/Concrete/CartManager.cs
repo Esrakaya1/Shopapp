@@ -19,7 +19,7 @@ namespace shopapp.business.Concrete
 
             if (cart != null)
             {
-                // eklenmek istenen ürün sepette var mı (güncellmeme)
+                // eklenmek istenen ürün sepette var mı (güncelleme)
                 // eklenmek istenen ürün sepette var ve yeni kayıt oluştur. (kayıt eklemne)
 
                 var index = cart.CartItems.FindIndex(i => i.ProductId == productId);
