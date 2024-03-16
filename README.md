@@ -21,6 +21,8 @@ MVC, Dependency Injection, Repository Pattern, Business Rules
 
 - Add to cart functionality, check out and place order: currently support cash on delevery option.
 
-  
+ <img width="959" alt="Ekran görüntüsü 2024-03-14 121737" src="https://github.com/Esrakaya1/Shopapp/assets/108301268/a2d9e7e2-f8c3-4c35-a2bb-4e7619dbfae3">
 
+- Used Web API
+  
   
