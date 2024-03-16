@@ -8,6 +8,14 @@ MVC, Dependency Injection, Repository Pattern, Business Rules
 
 # Main Features
 - Divided into two parts Client Side and Admin Side.
+  
 - Login & Logout & Register functionality.
+
+ <img width="959" alt="Ekran görüntüsü 2024-03-12 141838" src="https://github.com/Esrakaya1/Shopapp/assets/108301268/278e4e11-29a3-4db4-9f11-a8923026ca53">
+
+ <img width="960" alt="Ekran görüntüsü 2024-03-12 141851" src="https://github.com/Esrakaya1/Shopapp/assets/108301268/218b5969-e688-4e6a-a2f9-9a5839d7102b">
+
+- Advanced Search Box, filter product by category.
+
 
   
