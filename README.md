@@ -17,5 +17,10 @@ MVC, Dependency Injection, Repository Pattern, Business Rules
 
 - Advanced Search Box, filter product by category.
 
+ <img width="948" alt="Ekran görüntüsü 2024-03-12 141753" src="https://github.com/Esrakaya1/Shopapp/assets/108301268/eee7dbba-32c5-4354-bc3b-8c5e8f0cf2ee">
+
+- Add to cart functionality, check out and place order: currently support cash on delevery option.
+
+  
 
   
